@@ -2,9 +2,9 @@
 
 - Criação de uma página para o gerenciamento de lembretes
 
-# ⚙️ Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
-React
-TypeScript
-CSS Modules
-ViteJS
+- React
+- TypeScript
+- CSS Modules
+- ViteJS

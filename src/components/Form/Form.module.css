@@ -1,0 +1,47 @@
+.container__title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 25rem;
+  padding-bottom: 1rem;
+}
+
+.form__container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+}
+
+.form__label {
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.form__input {
+  padding: 0.5rem 0.94rem;
+  margin-bottom: 1.5em;
+  border-radius: 0;
+  border: 1px solid #2347be;
+}
+
+.form__submit {
+  background-color: #2347be;
+  border-radius: 8px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: 0.5s;
+  width: 8rem;
+  height: 2.1rem;
+  margin: 0 auto;
+}
+
+.form__submit:hover {
+  background-color: #103ed3;
+}
